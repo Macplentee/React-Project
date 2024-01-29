@@ -1,19 +1,20 @@
-# Getting Started with Create React App
+# Getting Started with React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 This is a GST 306 group project of an Ecommerce website
 This website deals in the purchase of clothes for all sizes and ages (men,women and kids)
 List of Group members
-ADENEKAN MUTIAT
-ROLAND TOBI
-LANTIWO DAVID
-ADEPOJU MUHAMMAD
-AJABUZUEZE GINIKA CONFIDENCE
-ANANZE PWUWALADI
-KOLASOKOYA OLUWASOLA
-AWOLAJA DAVID
-OLADEMEJI PRECIOUS
-ORUMOBIRI IWEKUMO
+ADENEKAN MUTIAT,
+OLADIMEJI PRECIOUS TIMILEHIN,
+ROLAND TOBI,
+LANTIWO DAVID,
+ADEPOJU MUHAMMAD,
+AJABUZUEZE GINIKA CONFIDENCE,
+ANANZE PWUWALADI,
+KOLASOKOYA OLUWASOLA,
+AWOLAJA DAVID,
+OLADEMEJI PRECIOUS,
+ORUMOBIRI IWEKUMO,
 
 ## Available Scripts
 
